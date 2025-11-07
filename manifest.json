@@ -1,0 +1,21 @@
+{
+  "short_name": "Nursing AI",
+  "name": "Nursing Pathology Catalog AI",
+  "description": "A living Nursing Pathology Catalog that updates daily with complete PAE (Proceso de Atención de Enfermería) data for each pathology, designed for UAX students and professionals.",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#2563eb",
+  "background_color": "#ffffff"
+}
